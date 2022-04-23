@@ -1,4 +1,5 @@
-'''frase=input('Digite uma frase: ').strip().upper() # Apos a sopa
+'''
+frase=input('Digite uma frase: ').strip().upper() # Apos a sopa
 
 palavras=frase.split() # apos a sopa
 junto=''.join(palavras) # aposasopa
@@ -10,7 +11,9 @@ for letra in range(len(junto)-1,-1,-1):
 if inverso==junto:
     print('Temos um palíndromo!')
 else:
-    print('A frase digitada não é um palíndromo!')'''
+    print('A frase digitada não é um palíndromo!')
+    
+'''
 
 frase=input('Digite uma frase: ').strip().upper() # Apos a sopa
 
@@ -22,3 +25,4 @@ if inverso==junto:
     print('Temos um palíndromo!')
 else:
     print('A frase digitada não é um palíndromo!')
+#'''    
