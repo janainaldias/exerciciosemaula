@@ -1,5 +1,7 @@
 # Exercício 10 - Aula 19
 
+#adicionado
+
 estatura = float(input("Estatura do aluno: "))
  
 '''Como não há nenhuma estatura a ser comparada, neste momento, o primeiro
