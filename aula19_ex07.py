@@ -19,7 +19,7 @@ while True:
             ced=10
         elif ced==10:
             ced=1
-        #totced=0
+        totced=0
         if total==0:
             break
 print('='*30)
