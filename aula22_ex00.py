@@ -1,3 +1,10 @@
+# Converter Tupla em Lista
+dias=('domingo', 'segunda', 'terça', 'quarta', 'quinta', 'sexta', 'sábado')
+
+semana=list(dias)
+
+print(f'A variável semana é do tipo {type(semana)} e contém os todos os dias da semana {semana}')
+
 # Listas / Vetpres
 lista=[ 'Maria', 'Janaina', 'José', 'Carlos']
 listaa=['José', 'Pedro']
