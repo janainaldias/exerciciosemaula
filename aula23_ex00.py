@@ -1,12 +1,3 @@
-# Converter Tupla em Lista
-'''
-dias=('domingo', 'segunda', 'terça', 'quarta', 'quinta', 'sexta', 'sábado')
-
-semana=list(dias)
-
-print(f'A váriavel semana é do tipo {type(semana)} e contém os dias da semana {semana}')
-'''
-
 num=[]
 for n in range(0,10):
     num.append(n**2)
